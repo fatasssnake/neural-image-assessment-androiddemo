@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: org.pytorch:pytorch_android_torchvision:1.6.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/893010c853faa1f1aef51db4ae4fe46a/jetified-pytorch_android_torchvision-1.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/893010c853faa1f1aef51db4ae4fe46a/jetified-pytorch_android_torchvision-1.6.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/893010c853faa1f1aef51db4ae4fe46a/jetified-pytorch_android_torchvision-1.6.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../Android/caches/transforms-2/files-2.1/893010c853faa1f1aef51db4ae4fe46a/jetified-pytorch_android_torchvision-1.6.0/res" />
+      <root url="file://$PROJECT_DIR$/../Android/caches/transforms-2/files-2.1/893010c853faa1f1aef51db4ae4fe46a/jetified-pytorch_android_torchvision-1.6.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../Android/caches/transforms-2/files-2.1/893010c853faa1f1aef51db4ae4fe46a/jetified-pytorch_android_torchvision-1.6.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.pytorch/pytorch_android_torchvision/1.6.0/41044d3a5976e07c8ff5664fafe5ea2dacd971ce/pytorch_android_torchvision-1.6.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Android/caches/modules-2/files-2.1/org.pytorch/pytorch_android_torchvision/1.6.0/41044d3a5976e07c8ff5664fafe5ea2dacd971ce/pytorch_android_torchvision-1.6.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.pytorch/pytorch_android_torchvision/1.6.0/ee7a6894e7de27bd6455d2d2351e2bedb592193e/pytorch_android_torchvision-1.6.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Android/caches/modules-2/files-2.1/org.pytorch/pytorch_android_torchvision/1.6.0/ee7a6894e7de27bd6455d2d2351e2bedb592193e/pytorch_android_torchvision-1.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

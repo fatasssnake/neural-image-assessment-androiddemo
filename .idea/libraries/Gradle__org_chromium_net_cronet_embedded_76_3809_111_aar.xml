@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: org.chromium.net:cronet-embedded:76.3809.111@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Android/caches/transforms-2/files-2.1/8697fd781a97aad016a763f1e16277f9/jetified-cronet-embedded-76.3809.111/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Android/caches/transforms-2/files-2.1/8697fd781a97aad016a763f1e16277f9/jetified-cronet-embedded-76.3809.111/res" />
+      <root url="file://$PROJECT_DIR$/../Android/caches/transforms-2/files-2.1/8697fd781a97aad016a763f1e16277f9/jetified-cronet-embedded-76.3809.111/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../Android/caches/transforms-2/files-2.1/092b3c9514f34e002e9e5d9449c0d975/jetified-cronet-embedded-76.3809.111/res" />
+      <root url="file://$PROJECT_DIR$/../Android/caches/transforms-2/files-2.1/092b3c9514f34e002e9e5d9449c0d975/jetified-cronet-embedded-76.3809.111/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../Android/caches/transforms-2/files-2.1/092b3c9514f34e002e9e5d9449c0d975/jetified-cronet-embedded-76.3809.111/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Android/caches/modules-2/files-2.1/org.chromium.net/cronet-embedded/76.3809.111/7c63a14c9d1f952cbc3ac0141d7df3c2194feea/cronet-embedded-76.3809.111-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
